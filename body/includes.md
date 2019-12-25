@@ -12,7 +12,7 @@
 <script type="text/javascript" src="https://ccdn.cali.run/scripts/caliweb/cassandra/custom.js"></script>
 <script type="text/javascript" src="https://ccdn.cali.run/scripts/caliweb/cassandra/Theorem.js"></script>
 <script type="text/javascript" src="https://ccdn.cali.run/scripts/caliweb/cassandra/compifstring.js"></script>
-<!--Cassandra-->
-<link rel="stylesheet" href="https://ccdn.cali.run/styles/caliweb/tricon/style.css" />
+<!--Tricon-->
+<link rel="stylesheet" href="https://ccdn.cali.run/style/caliweb/tricon/style.css" />
 <script type="text/javascript" src="https://ccdn.cali.run/scripts/caliweb/icontrack/reversping.js"></script>
 <script type="text/javascript" src="https://ccdn.cali.run/scripts/caliweb/icontrack/forwardpush.js"></script>
