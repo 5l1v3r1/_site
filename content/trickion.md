@@ -4,7 +4,7 @@
 <section class="demo">
     <span>
         <p>
-            <h3>Du bist hier Eingeloggt:</h3>
+            <h4>Du bist hier Eingeloggt:</h4>
             <div id="loggedIn">
                 <h2>No platform</h2>
                 <p>(or maybe you've disabled third party cookies, or you are using something like Privacy Badger?)</p>
@@ -12,7 +12,7 @@
             </div>
         </p>
         <p>
-            <h3>Hier bist du nicht Eingeloggt:</h3>
+            <h4>Hier bist du nicht Eingeloggt:</h4>
             <div id="notLoggedIn"></div>
         </p>
     </span>
