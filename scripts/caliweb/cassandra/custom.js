@@ -17,21 +17,6 @@ function pUtil()          /**RESTful()        **/ { location.href = "/de-at/util
 function dbUtil()         /**Databases()      **/ { location.href = "/de-at/utilization.databases.html"; }
 function video()          /**video()          **/ { location.href = "/de-at/video.html"; }
 
-$(document).ready(function () {   //Vid
-  $("#500").on("click", function (e) {
-    e.preventDefault();
-    $("#k18mj6IACB").modal({
-      backdrop: "static",       //remove ability to close modal with click
-      keyboard: false,          //remove option to close with keyboard
-      show: true                //Display loader!
-    });
-    setTimeout(function () {
-      $("#k18mj6IACB").modal("hide");
-      $('#cfSZPxbvup').modal();
-    }, 500);
-  });
-});
-
 function OKatI4QL5Q()  /**leakdist_table   **/ { $('#OKatI4QL5Q').modal(); }
 function YqN01LOWyH()  /**domaindist_table **/ { $('#YqN01LOWyH').modal(); }
 function wlLRVstozn()  /**pUtil            **/ { $('#wlLRVstozn').modal(); }
